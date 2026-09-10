@@ -117,7 +117,7 @@ export default function Home() {
           <div className="mb-8 flex items-baseline gap-4">
             <span className={`${mono} text-[11px] tracking-[0.2em] text-[#b3182f]`}>02</span>
             <h2 className={`${display} m-0 text-[clamp(24px,3.4vw,40px)] font-semibold tracking-[-0.02em]`}>
-              관심사
+              취미
             </h2>
           </div>
           <div className="flex flex-wrap gap-2.5">
