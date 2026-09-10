@@ -1,0 +1,11 @@
+{
+  "name": "오진우",
+  "school": "고려대학교",
+  "major": "스마트보안학부",
+  "goal": "하드웨어 보안",
+  "interests": ["게임", "운동", "춤", "음악"],
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/username" },
+    { "label": "Email", "url": "mailto:5jinwoov2@gmail.com" }
+  ]
+}
